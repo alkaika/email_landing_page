@@ -56,4 +56,10 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
+
+#button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
   
